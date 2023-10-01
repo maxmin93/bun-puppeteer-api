@@ -1,0 +1,6 @@
+Dockerfile
+*.md
+.gitignore
+
+bun.lockb
+/node_modules
